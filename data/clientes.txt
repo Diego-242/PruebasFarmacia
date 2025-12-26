@@ -13,3 +13,4 @@
 0705050505|Guillermo del Toro|Miraflores Calle Vieja|0992233445|N/A|guillermo@email.com|0|0|0|200.00
 1708080808|Bad Bunny|Ordoñez Lasso Edif. Palermo|0981112223|N/A|benito@email.com|0|0|0|50.00
 0101010101|Usuario Prueba Final|Facultad de Ingenieria|0990000000|N/A|estudiante@u.edu.ec|0|0|0|0.00
+0107852691|Diego Santacruz|Calle B y Paris|0998653438|09876543456799|diegosantacruz930@gmail.com|0|0|0|0.00
