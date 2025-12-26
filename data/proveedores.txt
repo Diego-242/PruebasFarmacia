@@ -1,0 +1,5 @@
+1790012345001|Corporacion GPF (Fybeca)|Av. de los Shyris y Naciones Unidas|022999000|compras@gpf.com.ec|15000.00
+0190055566001|Distribuidora Farmaceutica Cuenca|Parque Industrial Calle 4|074040404|ventas@districuenca.com|8500.50
+1791234567001|Laboratorios Bagó del Ecuador|Av. 12 de Octubre|023987654|contacto@bago.com.ec|5000.00
+0992233445001|Pfizer Ecuador Cia. Ltda.|Av. del Bombero Km 6|042123456|pedidos@pfizer.com|12000.00
+1190088990001|Insumos Medicos del Sur|Loja - Av. Universitaria|072565656|info@insumosur.com|2300.25

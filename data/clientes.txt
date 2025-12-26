@@ -1,0 +1,15 @@
+0102030405|Juan Perez|Av. Las Americas y Gran Colombia|0991234567|4500123412341234|juan.perez@email.com|1|150|1|1250.50
+1710020030|Maria Fernanda Rodriguez|Calle Larga y Borrero|0987654321|4400222233334444|maria.rod@email.com|2|580|5|3400.00
+1102030405|Carlos Andres Lopez|Av. Solano 12-45|0998877665|5500666677778888|carlos.lopez@email.com|1|80|0|500.00
+0703040506|Ana Lucia Mendez|Monay Bloque 3|0981122334|4500999988887777|ana.mendez@email.com|1|210|2|1800.25
+0105060708|Pedro Picapiedra|Ricaurte Centro|0995544332|N/A|pedro.p@email.com|0|0|0|45.00
+1720304050|Sofia Vergara|Totoracocha Calle los Andes|0984455667|4100111122223333|sofia.v@email.com|1|45|0|120.00
+0910203040|Roberto Gomez Bolaños|Vecindad del Chavo N8|0997788990|N/A|chespirito@email.com|0|0|0|10.50
+0301020304|Dua Lipa Santacruz|Challuabamba Sector 2|0989988776|N/A|dua.lipa@email.com|0|0|0|0.00
+0106667778|Lionel Messi|Estadio Alejandro Serrano|0991010101|5200101010101010|leo.messi@email.com|1|300|3|2500.00
+1750505050|Cristiano Ronaldo|El Ejido Av. 10 de Agosto|0987777777|N/A|cr7@email.com|0|0|0|80.00
+1104050607|Shakira Mebarak|Barranquilla y Huayna Capac|0996655443|N/A|shakira@email.com|0|0|0|15.75
+0109090909|Eugenio Derbez|San Joaquin|0983322110|N/A|eugenio@email.com|0|0|0|0.00
+0705050505|Guillermo del Toro|Miraflores Calle Vieja|0992233445|N/A|guillermo@email.com|0|0|0|200.00
+1708080808|Bad Bunny|Ordoñez Lasso Edif. Palermo|0981112223|N/A|benito@email.com|0|0|0|50.00
+0101010101|Usuario Prueba Final|Facultad de Ingenieria|0990000000|N/A|estudiante@u.edu.ec|0|0|0|0.00
